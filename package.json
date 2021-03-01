@@ -1,0 +1,11 @@
+{
+  "name": "telegram-notifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "telegram-notifier.js",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.50.0"
+  },
+  "author": "Tibor Hercz",
+  "license": "ISC"
+}
